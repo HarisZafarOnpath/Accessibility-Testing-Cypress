@@ -12,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "^12.17.1",
+    "cypress-axe": "^1.5.0",
     "cypress-cucumber-preprocessor": "^4.3.1",
     "cypress-xpath": "^2.0.1",
     "mochawesome": "^7.0.1"
@@ -46,6 +47,7 @@
     "available-typed-arrays": "^1.0.5",
     "aws-sign2": "^0.7.0",
     "aws4": "^1.12.0",
+    "axe-core": "^4.8.2",
     "babel-plugin-add-module-exports": "^1.0.4",
     "babel-plugin-dynamic-import-node": "^2.3.3",
     "babel-plugin-polyfill-corejs2": "^0.3.0",
